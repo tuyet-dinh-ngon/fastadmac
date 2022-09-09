@@ -7,3 +7,4 @@ sudo conda config --add channels fastai
 git config --global pull.rebase true
 git config --global user.name "Jeremy Howard"
 git config --global user.email j@fast.ai
+ 
